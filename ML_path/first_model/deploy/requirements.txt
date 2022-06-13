@@ -1,0 +1,9 @@
+os
+flask
+tensorflow
+numpy
+pandas
+sentence_transformers
+firebase-admin
+pickle
+sklearn
